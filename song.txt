@@ -4,6 +4,12 @@ If you're playin' me, keep it on the low
 And if you're creepin', please don't let it show
 Oh baby, I don't wanna know
 
+<<<<<<< HEAD
 'Cause my heart can't take it anymore
 And if you're creepin', please don't let it show
 Oh baby, I don't wanna know
+=======
+
+I don't wanna know
+If you're playin' me, keep it on the low
+>>>>>>> feature
